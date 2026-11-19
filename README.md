@@ -49,4 +49,13 @@ making sure data is collected correctly, understood clearly and turned into deci
 
 <br>
 
+<p align="center">
+  <img src="./assets/songs/header.svg" alt="favorite songs" /><br>
+  <a href="https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R"><img src="./assets/songs/1.svg" alt="Ode To The Mets - The Strokes" /></a><br>
+  <a href="https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"><img src="./assets/songs/2.svg" alt="Amour plastique - Videoclub" /></a><br>
+  <a href="https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"><img src="./assets/songs/3.svg" alt="Come Inside Of My Heart - IV OF SPADES" /></a>
+</p>
+
+<br>
+
 <p align="center"><b>ɞ Always open to connecting with people in data, analytics and AI — feel free to reach out! ✉️</b></p>
