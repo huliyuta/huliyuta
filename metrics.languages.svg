@@ -3,25 +3,25 @@
 <text x="240.0" y="22" text-anchor="middle" class="t">Most used languages</text>
 <clipPath id="c"><rect x="20" y="34" width="440" height="8" rx="4"/></clipPath>
 <g clip-path="url(#c)">
-<rect x="20.00" y="34" width="215.53" height="8" fill="#f1e05a"/>
-<rect x="235.03" y="34" width="174.27" height="8" fill="#3572A5"/>
-<rect x="408.79" y="34" width="35.48" height="8" fill="#663399"/>
-<rect x="443.77" y="34" width="16.73" height="8" fill="#e34c26"/>
+<rect x="20.00" y="34" width="200.93" height="8" fill="#f1e05a"/>
+<rect x="220.43" y="34" width="192.34" height="8" fill="#3572A5"/>
+<rect x="412.27" y="34" width="33.10" height="8" fill="#663399"/>
+<rect x="444.87" y="34" width="15.63" height="8" fill="#e34c26"/>
 </g>
 <circle cx="26" cy="62" r="4.5" fill="#f1e05a"/>
 <text x="38" y="66" class="l">JavaScript</text>
 <text x="180" y="66" text-anchor="end" class="n">18.7 kB</text>
-<text x="230" y="66" text-anchor="end" class="n">48.87%</text>
+<text x="230" y="66" text-anchor="end" class="n">45.55%</text>
 <circle cx="251" cy="62" r="4.5" fill="#3572A5"/>
 <text x="263" y="66" class="l">Python</text>
-<text x="405" y="66" text-anchor="end" class="n">15.1 kB</text>
-<text x="455" y="66" text-anchor="end" class="n">39.49%</text>
+<text x="405" y="66" text-anchor="end" class="n">17.9 kB</text>
+<text x="455" y="66" text-anchor="end" class="n">43.60%</text>
 <circle cx="26" cy="82" r="4.5" fill="#663399"/>
 <text x="38" y="86" class="l">CSS</text>
 <text x="180" y="86" text-anchor="end" class="n">3.0 kB</text>
-<text x="230" y="86" text-anchor="end" class="n">7.95%</text>
+<text x="230" y="86" text-anchor="end" class="n">7.41%</text>
 <circle cx="251" cy="82" r="4.5" fill="#e34c26"/>
 <text x="263" y="86" class="l">HTML</text>
 <text x="405" y="86" text-anchor="end" class="n">1.4 kB</text>
-<text x="455" y="86" text-anchor="end" class="n">3.69%</text>
+<text x="455" y="86" text-anchor="end" class="n">3.44%</text>
 </svg>
