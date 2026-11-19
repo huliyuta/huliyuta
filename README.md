@@ -44,7 +44,7 @@ making sure data is collected correctly, understood clearly and turned into deci
 ♡ I love combining technology with projects that bring me back to the real world and make an impact on the environment 🌱<br>
 ♡ Foxes are my favorite animal 🦊<br>
 ♡ I love learning new languages — currently French! bonjour ! 🇫🇷<br>
-<img src="./assets/lake.png" alt="sunlight on the lake" align="right" width="46%" />
+<img src="./assets/fox.png" alt="sleeping fox" align="right" width="40%" />
 ♡ In my free time: competitive games 🎮 and the gym 🏋️<br>
 ・ ・ ⊹ ₊˚ ♡
 
