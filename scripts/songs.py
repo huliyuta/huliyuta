@@ -16,7 +16,7 @@ TRACKS = [
 ]
 OUT = Path(__file__).resolve().parent.parent / "assets" / "songs"
 FONT = "-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
-WIDTH = 440
+WIDTH = 260
 
 
 def fetch(url):

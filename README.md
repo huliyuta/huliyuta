@@ -49,7 +49,7 @@ making sure data is collected correctly, understood clearly and turned into deci
 
 <br>
 
-<p align="center">
+<p>
   <img src="./assets/songs/header.svg" alt="favorite songs" /><br>
   <a href="https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R"><img src="./assets/songs/1.svg" alt="Ode To The Mets - The Strokes" /></a><br>
   <a href="https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"><img src="./assets/songs/2.svg" alt="Amour plastique - Videoclub" /></a><br>
