@@ -41,6 +41,8 @@ making sure data is collected correctly, understood clearly and turned into deci
 
 <br>
 
+<img src="./assets/lake.png" alt="sunlight on the lake" align="right" width="46%" />
+
 ♡ I love combining technology with projects that bring me back to the real world and make an impact on the environment 🌱<br>
 ♡ Foxes are my favorite animal 🦊<br>
 ♡ I love learning new languages — currently French! bonjour ! 🇫🇷<br>
@@ -56,6 +58,7 @@ making sure data is collected correctly, understood clearly and turned into deci
   <a href="https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"><img src="./assets/songs/3.svg" alt="Come Inside Of My Heart - IV OF SPADES" /></a>
 </p>
 
+<br clear="right">
 <br>
 
 <p align="center"><b>ɞ Always open to connecting with people in data, analytics and AI — feel free to reach out! ✉️</b></p>
